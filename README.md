@@ -1,5 +1,5 @@
 # Institution: California State University, Fullerton
-# Course Name: CPSC-131
+# Course Name: CPSC-131 - Data Structures
 # Objective: Build a Database for an Auto Repair Shop
 
 Description: Help the mechanics keep track of orders with a linked list
